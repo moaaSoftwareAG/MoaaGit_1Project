@@ -7,3 +7,8 @@ packages:
   gitUrl: https://github.com/moaaSoftwareAG
   gitUsername: moaaSoftwareAG
   gitBranch: main
+- name: OnPremiseISPkg
+  gitServerName: moaa
+  gitUrl: https://github.com/moaaSoftwareAG
+  gitUsername: moaaSoftwareAG
+  gitBranch: main
